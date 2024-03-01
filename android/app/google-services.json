@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "821371753102",
+    "firebase_url": "https://projectchk-46b99-default-rtdb.firebaseio.com",
+    "project_id": "projectchk-46b99",
+    "storage_bucket": "projectchk-46b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821371753102:android:4f9bb8631e40edb574afdf",
+        "android_client_info": {
+          "package_name": "com.example.checkingg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gPmBdmKWJek0hxPiiY9TqrjRqTU2-Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821371753102:android:dd5052a2948c8ebd74afdf",
+        "android_client_info": {
+          "package_name": "com.example.parkease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gPmBdmKWJek0hxPiiY9TqrjRqTU2-Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
